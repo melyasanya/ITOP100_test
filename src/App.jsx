@@ -1,9 +1,11 @@
 import { useEffect } from "react";
 import { useDispatch } from "react-redux";
-import "./App.css";
+
 import { Convert } from "./components/Convert/Convert";
 import { Header } from "./components/Header/Header";
 import { fetchCurrencies } from "./redux/operations";
+
+import "./App.css";
 
 function App() {
   const dispatch = useDispatch();
