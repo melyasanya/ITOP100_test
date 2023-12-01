@@ -1,8 +1,5 @@
-# React + Vite
+Доброго дня!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Вітаю вас в репозиторію тестового завдання! Завдання "Конвертер валют" було виконане у повному обсязі згідно з ТЗ. Для запуску проекту мною був використаний Vite, а для деплою проекту Vercel. Під час роботи були використанні такі бібліотеки React: Redux, Redux Toolkit, Axios, Prop-Types. В якості публічної API для курсу валют була використана API Національного банку України.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Приємного перегляду!
